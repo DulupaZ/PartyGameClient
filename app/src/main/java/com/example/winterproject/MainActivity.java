@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
             }.start();
         }
     };
-    public static final String HOST="220.134.188.70";
+    public static final String HOST="xxx.xxx.xxx.xx";   //測試的時候我有改回來!!
     public static final int PORT=7777;
     Socket socket=null;
     BufferedWriter writer;
